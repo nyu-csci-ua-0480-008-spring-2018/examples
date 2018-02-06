@@ -1,0 +1,21 @@
+/*
+selector {
+  property : value;
+  property : value;
+}
+selector: What HTML element do I want to change?
+property: What aspect of that HTML element do I want to change?
+value: What new value do I want to set that property to?
+*/
+
+/*TODO: Implement CSS styles listed below*/
+
+/* Make all h1 headers have blue text and 12px font size*/
+
+/* Center ALL of the visible text on the page*/
+
+/* All paragraphs should have a green background*/
+
+/* When you hover over a link, the background should turn yellow */
+
+/* If you've clicked the link, the link's text color should be red*/
